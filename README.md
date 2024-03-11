@@ -1,2 +1,7 @@
 # EDA
-Based on  let-s-discover-more-about-the-olympic-games.ipynb let-s-discover-more-about-the-olympic-games.ipynb
+Based on https://neptune.ai/blog/exploratory-data-analysis-for-tabular-data
+
+added "get data from google drive
+updated deprecated code
+created interactive visuals
+
